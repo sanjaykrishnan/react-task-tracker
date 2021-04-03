@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Task 1",
+      "day": "day1",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Task 2",
+      "day": "day1",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Task 3",
+      "day": "day1",
+      "reminder": false
+    },
+    {
+      "text": "adsasd",
+      "day": "dasdad",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "ghhfgh",
+      "day": "ghfhfgh",
+      "reminder": false,
+      "id": 5
+    },
+    {
+      "text": "task1",
+      "day": "sampleeeeeeeee",
+      "reminder": false,
+      "id": 6
+    }
+  ]
+}
